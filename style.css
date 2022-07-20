@@ -60,6 +60,10 @@ footer {
 	padding-bottom: 20px;
 	font-family: Fantasy;
 }
+.subTitle {
+	position: relative;
+	text-align: center;
+}
 .tChar {
 	color: crimson;
 }
